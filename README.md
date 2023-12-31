@@ -1,6 +1,6 @@
 # holistic-living-app
 
-Project Concept: Holistic Living Hub with Chakra Healing and Calendar
+Holistic Living Hub with Chakra Healing and Calendar
 Backend (Flask and SQLAlchemy):
 Models:
 
