@@ -70,6 +70,21 @@ Ensure the website is responsive and accessible across different devices.
 Testing:
 
 Implement unit tests for critical frontend and backend functionalities.
-Deployment:
 
-Deploy the application to a cloud platform for public access.
+Deployment:Deploy the application to a cloud platform for public access.
+
+
+ALL THE INSTALLS  FOR THE COMMAND LINE:
+
+pip install Flask-SQLAlchemy
+pip install sqlalchemy-serializer
+pip install Flask-CORS
+pip install Flask-Marshmallow
+pip install Flask-RESTful
+pip install Flask-Migrate
+pip install marshmallow_sqlalchemy
+pip install Flask-Login
+pip install chatai
+
+
+
